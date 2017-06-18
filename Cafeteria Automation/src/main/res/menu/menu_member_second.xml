@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:id="@+id/actionhome" android:title="Home"
+        android:orderInCategory="100" />
+    <item  android:id="@+id/actionpassword" android:title="Change Password"
+        android:orderInCategory="100" />
+
+    <item  android:id="@+id/actionsignout" android:title="Signout"
+        android:orderInCategory="100" />
+
+
+</menu>
